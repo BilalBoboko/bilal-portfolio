@@ -1,0 +1,10 @@
+.skills {
+    padding: 50px;
+    background-color: #f4f4f4;
+  }
+  
+  .skills ul {
+    display: flex;
+    gap: 20px;
+  }
+  
